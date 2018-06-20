@@ -24,7 +24,7 @@
 
 
 
-# PRESSone用户手册即QA文档
+# PRESSone用户手册及QA文档
 
 # 一、项目相关：
 
